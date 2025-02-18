@@ -1,0 +1,15 @@
+<p style="margin: 0;">Dear Sir,</p>
+<p style="margin: 0;">&nbsp;</p>
+<p style="margin: 0;">My name is {{ $data['name'] }} and I am writing this letter to apply for the position of {{ $data['position'] }} at your company.</p>
+<p style="margin: 0;">&nbsp;</p>
+<p style="margin: 0;">I have {{ $data['year_of_experience'] }} of relevant experience and my skill set matches your criteria. I am a hardworking and honest individual. I can multitask and gel with my team members. I have been recognized by my previous employer for handling pressure situations and delivering the results. </p>
+<p style="margin: 0;">&nbsp;</p>
+<p style="margin: 0;">I have attached my updated resume for your review. Please let me know if you need additional details. I will provide them at the earliest. </p>
+<p style="margin: 0;">&nbsp;</p>
+<p style="margin: 0;">Thank you for your consideration, I look forward to hearing from you soon.</p>
+<p style="margin: 0;">&nbsp;</p>
+<p style="margin: 0;">Regards,</p>
+<p style="margin: 0;">&nbsp;</p>
+<p style="margin: 0;">{{ $data['name'] }}</p>
+<p style="margin: 0;">{{ $data['phone_number'] }}</p>
+<p style="margin: 0;">{{ $data['email'] }}</p>

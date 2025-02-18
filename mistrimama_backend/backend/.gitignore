@@ -1,0 +1,29 @@
+/sql_backup
+/public/storage
+/public/upload
+/public/resume
+/storage/*.key
+/vendor
+.htaccess
+.env
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.vscode
+*.jpeg
+*.htaccess
+public/upload/sp/1584773017.jpg
+public/upload/sp/1582624858.jpg
+public/upload/sp/1577084178.jpg
+public/upload/sp/1575965652.jpg
+public/upload/sp/1575956801.jpg
+public/upload/sp/1574595627.jpg
+public/upload/sp/1574062026.jpg
+public/upload/sp/1574061968.jpg
+public/upload/sp/1574060981.jpg
+public/download/Mesbaul Islam esp/comrade/m/1592734743954.jpg
+public/download/Mesbaul Islam esp/comrade/m/1592734743729.jpg
+public/download/Mesbaul Islam esp/comrade/m/1592733252722.jpg
+composer.lock
